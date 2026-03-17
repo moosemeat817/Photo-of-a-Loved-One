@@ -9,7 +9,7 @@ Inspired by a S.T.A.L.K.E.R mod of the same name. This mod allows you to carry a
 
 Inspect your picture using T, can be changed in the ModSettings menu.
 
-Make sure you keep the name of the photo file exactly as `Polaroid.png`
+⚠️ Make sure you keep the name of the photo file exactly as `Polaroid.png` ⚠️
 
 ---
 
