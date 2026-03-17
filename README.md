@@ -13,9 +13,6 @@ Inspect your picture using T, can be changed in the ModSettings menu.
 
 ---
 
-- Crafted using two Wolf Pelts and two Cured Guts
-- The item name is `GEAR_wolfscarf`
-
 ## 🙏 Special Thanks
 
 - To Emma, the original creator of the mod.
