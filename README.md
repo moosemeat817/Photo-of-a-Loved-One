@@ -13,7 +13,7 @@ Inspect your picture using T, can be changed in the ModSettings menu.
 
 - Extract the .zip, and move all contents to your /mods folder (PhotoMod folder will contain the Polaroid.png file).
 - Change your picture by editing the Polaroid.png in /PhotoMod folder.
-⚠️ Make sure you keep the name of the photo file exactly as `Polaroid.png` ⚠️
+- ⚠️ Make sure you keep the name of the photo file exactly as `Polaroid.png` ⚠️
 
 ---
 
